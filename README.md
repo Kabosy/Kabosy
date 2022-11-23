@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quentin Dinel
 - 👀 I’m interested in reinforcement learning, deep learning, NLP and more
-- 🌱 I’m currently following a master's degree in machine learning
+- 📚 I’m currently following a master's degree in machine learning
 - 📫 How to reach me :
   - Message me on [LinkedIn](linkedin.com/in/quentin-dinel)
 
